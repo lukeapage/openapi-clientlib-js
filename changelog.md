@@ -1,3 +1,7 @@
+#### v1.9.2
+
++ Support for top property as part of subscription for pagination
+
 #### v1.9.1
 
 + Add nano-precision to protobuf deserialization
